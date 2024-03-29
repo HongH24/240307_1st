@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Mar 30 10:11:42 2024
-
-@author: honghee
-"""
-
 #%% Q3
 print('[ assignment2-Q3 ]')
 def plus(v1,v2,v3):
